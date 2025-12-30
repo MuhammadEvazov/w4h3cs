@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "G:\\C# projects\\W4\\D3\\Hw3\\Task1\\Task1.csproj",
       "projectName": "Task1",
       "projectPath": "G:\\C# projects\\W4\\D3\\Hw3\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\2024\\.nuget\\packages\\",
       "outputPath": "G:\\C# projects\\W4\\D3\\Hw3\\Task1\\obj\\",
+=======
+      "projectUniqueName": "G:\\C# projects\\W4\\D3\\Cw3\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "G:\\C# projects\\W4\\D3\\Cw3\\Task1\\Task1.csproj",
+      "packagesPath": "C:\\Users\\2024\\.nuget\\packages\\",
+      "outputPath": "G:\\C# projects\\W4\\D3\\Cw3\\Task1\\obj\\",
+>>>>>>> 4f2db2245c3e6c06f5458151fea673afd593a8c5
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2024\\AppData\\Roaming\\NuGet\\NuGet.Config"

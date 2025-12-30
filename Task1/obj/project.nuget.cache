@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "QI6JvBI9gb4=",
   "success": true,
   "projectFilePath": "G:\\C# projects\\W4\\D3\\Hw3\\Task1\\Task1.csproj",
+=======
+  "dgSpecHash": "84oHzslBlOA=",
+  "success": true,
+  "projectFilePath": "G:\\C# projects\\W4\\D3\\Cw3\\Task1\\Task1.csproj",
+>>>>>>> 4f2db2245c3e6c06f5458151fea673afd593a8c5
   "expectedPackageFiles": [],
   "logs": []
 }
